@@ -1,12 +1,6 @@
 # 夜的结构生成器 (YEtools - Ye's Structure Generator)
 
-一个 Minecraft Fabric 1.21.5 模组，允许玩家在任意位置设置结构类型并生成对应的建筑。
-
-- 支持所有原版结构（女巫小屋、村庄、要塞等）
-- 基于 MaLiLib （客户端安装需要安装前置 MaLiLib）
-- 支持服务端和客户端
-
-## 安装
+一个 Minecraft Fabric 1.21.5 模组，基于 MaLiLib，允许玩家在任意位置设置结构类型并生成对应的建筑。
 
 ### 依赖
 - Minecraft 1.21.5
@@ -50,6 +44,3 @@
 
 MIT License
 
-## 贡献
-
-欢迎提交 Issue 和 Pull Request！
