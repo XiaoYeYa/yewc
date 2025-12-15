@@ -1,0 +1,20 @@
+{
+  "yewc.gui.title.configs": "夜的工具箱 - 结构生成器",
+  "yewc.gui.button.config_gui.generic": "通用",
+  "yewc.gui.button.config_gui.hotkeys": "热键",
+  "yewc.hotkeys.category.hotkeys": "YEWC 热键",
+  
+  "yewc.config.name.structureType": "结构类型",
+  "yewc.config.comment.structureType": "要设置的结构类型ID (例如 minecraft:swamp_hut)",
+  "yewc.config.name.generateBuilding": "生成建筑",
+  "yewc.config.comment.generateBuilding": "是否生成结构建筑物",
+  
+  "yewc.config.name.openConfigGui": "打开配置界面",
+  "yewc.config.comment.openConfigGui": "打开YEWC配置界面的热键",
+  "yewc.config.name.setStructure": "设置结构",
+  "yewc.config.comment.setStructure": "在当前位置设置结构的热键",
+  "yewc.config.name.clearStructure": "清除结构",
+  "yewc.config.comment.clearStructure": "清除当前位置结构的热键",
+  "yewc.config.name.listStructures": "列出结构",
+  "yewc.config.comment.listStructures": "列出当前位置结构的热键"
+}

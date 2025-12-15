@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Fabric
+run/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+hs_err_pid*.log

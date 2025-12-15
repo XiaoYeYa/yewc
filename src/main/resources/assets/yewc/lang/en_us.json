@@ -1,0 +1,20 @@
+{
+  "yewc.gui.title.configs": "Ye's Structure Generator",
+  "yewc.gui.button.config_gui.generic": "Generic",
+  "yewc.gui.button.config_gui.hotkeys": "Hotkeys",
+  "yewc.hotkeys.category.hotkeys": "YEWC Hotkeys",
+  
+  "yewc.config.name.structureType": "Structure Type",
+  "yewc.config.comment.structureType": "The structure type ID to set (e.g. minecraft:swamp_hut)",
+  "yewc.config.name.generateBuilding": "Generate Building",
+  "yewc.config.comment.generateBuilding": "Whether to generate the structure building",
+  
+  "yewc.config.name.openConfigGui": "Open Config GUI",
+  "yewc.config.comment.openConfigGui": "Hotkey to open the YEWC config GUI",
+  "yewc.config.name.setStructure": "Set Structure",
+  "yewc.config.comment.setStructure": "Hotkey to set structure at current location",
+  "yewc.config.name.clearStructure": "Clear Structure",
+  "yewc.config.comment.clearStructure": "Hotkey to clear structures at current location",
+  "yewc.config.name.listStructures": "List Structures",
+  "yewc.config.comment.listStructures": "Hotkey to list structures at current location"
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "yewc",
+  "version": "${version}",
+  "name": "YEWC - Structure Setter",
+  "description": "Set structure types at any location with MaLiLib GUI integration",
+  "authors": ["yzfs"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/yewc/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ink.yzfs.yewc.Yewc"
+    ],
+    "client": [
+      "ink.yzfs.yewc.client.YewcClient"
+    ]
+  },
+  "mixins": [
+    "yewc.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  },
+  "suggests": {
+    "malilib": "*"
+  }
+}
