@@ -2,10 +2,6 @@
 
 一个 Minecraft Fabric 1.21.5 模组，允许玩家在任意位置设置结构类型并生成对应的建筑。
 
-## 功能
-
-- 使用命令在任意位置设置结构类型
-- 自动生成结构建筑物
 - 支持所有原版结构（女巫小屋、村庄、要塞等）
 - 基于 MaLiLib （客户端安装需要安装前置 MaLiLib）
 - 支持服务端和客户端
@@ -31,13 +27,8 @@
 | `/setstructure <structure>` | 在当前位置设置结构 |
 | `/setstructure clear` | 清除当前区块的结构 |
 | `/setstructure list` | 列出当前区块的结构 |
+`/setstructure minecraft:swamp_hut`     # 生成女巫小屋
 
-### 示例
-```
-/setstructure minecraft:swamp_hut     # 生成女巫小屋
-/setstructure minecraft:village_plains # 生成平原村庄
-/setstructure minecraft:stronghold    # 生成要塞
-```
 
 ### 热键（需要 MaLiLib）
 | 热键 | 功能 |
